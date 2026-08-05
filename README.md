@@ -1,4 +1,4 @@
-# LabelLens  
+# Dietary Restrictions -LabelLens  
 ### Ingredient Analysis System for Personalized Dietary Restrictions
 
 LabelLens is a deep learning-based food ingredient analysis system that helps users identify potential dietary risks from packaged food labels.
