@@ -215,7 +215,7 @@ The available labels provide general ingredient information; therefore, a hybrid
 ## Home Interface
 
 <p align="center">
-<img src="images/home.png" width="800">
+<img src="images/home_page.png" width="800">
 </p>
 
 
