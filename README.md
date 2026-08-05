@@ -212,19 +212,25 @@ The available labels provide general ingredient information; therefore, a hybrid
 
 # Screenshots
 
-## Home Page
+## Home Interface
 
-(images/)
+<p align="center">
+<img src="images/home.png" width="800">
+</p>
 
-## Upload Interface
 
-(images/)
+## Food Label Upload
 
-## Analysis Result
+<p align="center">
+<img src="images/text.png" width="800">
+</p>
 
-(images/)
 
----
+## Dietary Analysis Result
+
+<p align="center">
+<img src="images/result.png" width="800">
+</p>
 
 # Future Improvements
 
