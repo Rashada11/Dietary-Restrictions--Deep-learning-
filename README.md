@@ -114,31 +114,22 @@ Although CNN and DNN achieved similar accuracy, DNN was selected due to better v
 ```
 Dietry_Restrictions/
 │
-├── app/
-│   ├── views.py
-│   ├── models.py
-│   └── urls.py
+├── Backend/
+│   ├── Media
+│   ├── Satatic
+│   └── Templates
+│   └── App
+│   └── config
+│   └── Analyzer
+│   └── manage.py
+│   └── requirements.txt
 │
 ├── models/
-│   └── trained_dnn_model
-│
-├── train/
+│  |── train/
 │   └── preprocessing.py
 │   ├── Ml_model.py
 │   ├── lstm_model.py
 │   └── interface.py
-├── templates/
-│   └── html files
-│
-├── static/
-│   ├── css
-│   └── javascript
-│
-├── media/
-│   └── uploaded images
-│
-├── requirements.txt
-├── manage.py
 └── README.md
 ```
 
