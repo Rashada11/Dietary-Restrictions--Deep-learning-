@@ -69,7 +69,7 @@ Restriction Analysis Engine
 
 ---
 
-# 🧠 Machine Learning Models
+# Deep Leraning Models
 
 The following models were trained and evaluated:
 
